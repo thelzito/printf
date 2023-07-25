@@ -3,8 +3,8 @@
 /************************* PRINT CHAR *************************/
 
 /**
- * print_char - Prints a char
- * @types: List an of arguments
+ * print_char - Print a char
+ * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: Width
